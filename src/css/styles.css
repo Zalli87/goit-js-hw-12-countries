@@ -1,0 +1,46 @@
+.container {
+  margin-right: auto;
+  padding: 20px;
+  width: 1280px;
+  height: 785px;
+  background-image: url(/images/word-img.jpg);
+  background-repeat: no-repeat;
+  background-position: inherit;
+  background-size: cover;
+}
+.search-form {
+  text-align: center;
+}
+
+.form-title {
+  margin: 0px 0px 65px 0px;
+  color: skyblue;
+}
+
+.card-container {
+  color: whitesmoke;
+}
+.country-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.country-title {
+  text-align: center;
+  color: whitesmoke;
+}
+.country-info {
+  list-style: none;
+}
+.country-language {
+  list-style: disc;
+}
+
+.languages-list {
+  list-style: disc;
+}
+
+.flag-img {
+  margin-left: 100px;
+  width: 300px;
+}
